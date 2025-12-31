@@ -40,4 +40,4 @@ The dashboard includes:
 ## Screenshots
 ![Dashboard](screenshots/dashboard_full.png)
 ![State Sales Map](screenshots/state_sales_map.png)
-![Monthly Trend](screenshots/monthly_trend.png)
+
